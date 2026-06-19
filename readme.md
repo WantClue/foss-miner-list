@@ -29,5 +29,5 @@
 | ESP-Miner (AxeOS)           | Bitaxe                           | [bitaxeorg/ESP-Miner](https://github.com/bitaxeorg/ESP-Miner)                       |
 | ESP-Miner-NerdAxe           | NerdAxe single-chip variants     | [BitMaker-hub/ESP-Miner-NerdAxe](https://github.com/BitMaker-hub/ESP-Miner-NerdAxe) |
 | ESP-Miner-NerdQAxePlus      | NerdQAxe+, NerdQAxe++, Octaxe... | [shufps/ESP-Miner-NerdQAxePlus](https://github.com/shufps/ESP-Miner-NerdQAxePlus)   |
-| ESP-Miner-TCH               | Bitaxe 70x                       | [TinyChipHub/ESP-Miner-TCH](https://github.com/TinyChipHub/ESP-Miner-TCH)           |
 | ForgeOS                     | BitForge Nano                    | [WantClue/forge-OS](https://github.com/WantClue/forge-os)                           |
+| ESP-Miner-TCH               | Bitaxe 70x                       | [TinyChipHub/ESP-Miner-TCH](https://github.com/TinyChipHub/ESP-Miner-TCH)           |
